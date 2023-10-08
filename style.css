@@ -8,24 +8,30 @@
 body {
     font-family: "Montserrat";
     font-size: 1em;
+    width: 1440px;
 }
 
 /* Header styles */
 
 .logo {
-
+    height: 65px;
+    width: 65px;
 }
 
 .menu-list {
-
+color: #000;
+font-size: 18px;
+font-weight: 400;
+line-height: 96.896%;
 }
-
-
-
-
-
-
-
+button {
+    color: #000;
+   text-align: center;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 96.896%; 
+   text-transform: uppercase;
+   }
 
 /* First screen */
 
@@ -38,13 +44,162 @@ body {
     height: 100vh;
 }
 
-
 .main-title {
     font-weight: 800;
     font-size: 4.06em;
+    line-height: 94.9%; 
+    letter-spacing: -1.3px;
+    text-transform: uppercase;
+    width: 686px;
 }
 
 .main-description {
+color: #000;
+font-size: 20px;
+font-weight: 400;
+line-height: 120%;
+width: 484px; 
 
 }
+.blue-button {
+    color: #000;
+   text-align: center;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 96.896%; 
+   text-transform: uppercase;
+   }
+   /* .description-screen {
+  
+   } */
+
+   .description-title-second {
+    width: 1004px;
+    color: #000;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 120%; 
+    letter-spacing: -1.2px;
+    text-transform: uppercase;
+   }
+.description-text {
+    color: #000;
+    text-align: center;
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 120%;
+}
+.description-blue {
+    color: #73A6B1;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 120%;
+}
+
+
+   .description-block  {
+    display: flex;
+    background: #F1FDFF;
+      
+ 
+   }
+   .block {
+    color: #000;
+    line-height: 120%;
+    max-width: 100%;
+    width: 527px;
+    height: 425px;
+
+   
+
+   }
+   .hero-title {
+   font-size: 46px;
+    font-weight: 400;
+
+    letter-spacing: -0.92px;
+    text-transform: uppercase;
+   }
+.hero-text-one {
+      font-size: 20px;
+        font-weight: 600;
+  
+}
+.hero-text{
+ font-size: 20px;
+font-weight: 400;
+}
+.hero4-text {
+   color: #000;
+    font-size: 28px;
+    line-height: 120%;
+    max-width: 100%;
+    width: 558px;
+}
+.hero5-title {
+    color: #000;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 120%; 
+    letter-spacing: -1.2px;
+    text-transform: uppercase;
+}
+.hero5-text{
+    color: #73A6B1;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 120%; 
+}
+.goal {
+    color: #000;
+text-align: center;
+font-size: 27px;
+font-weight: 400;
+line-height: 120%; 
+}
+.line {
+color: #000;
+font-size: 60px;
+font-weight: 400;
+line-height: 120%; 
+letter-spacing: -1.2px;
+text-transform: uppercase;
+}
+.contacts-title {
+    color: #000;
+     font-size: 60px;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: -1.2px;
+    text-transform: uppercase;
+}
+.contacts-text {
+    color: #000;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 120%; 
+    width: 440px;
+}
+.contacts-text-next {
+    color: #000;
+font-size: 20px;
+font-weight: 400;
+line-height: 120%; 
+}
+.form-text {
+    color: #000;
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 120%; 
+    width: 476px;
+}
+
+
+
+
+
 
